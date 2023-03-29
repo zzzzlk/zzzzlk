@@ -1,7 +1,11 @@
+<a href="#">
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=ZzzhangLK&&hide_border=true&count_private=true&show_icons=true&include_all_commits=true">
+</a>
+
 ### Hi there 👋
 
 <!--
-**zzzzlk/zzzzlk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**ZzzhangLK/ZzzhangLK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -13,4 +17,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+  -->
+
+- 🔭 I want to work for Tencent
+- 🌱 I’m currently learning [Vue.js](https://github.com/vuejs/vue)
+- 🏓 Hobby: code & read
+- 👋 My personal [blog site](https://zzzhanglk.github.io/)
+- 💬 Ask me about anything [here](https://github.com/ZzzhangLK/ZzzhangLK/issues)
